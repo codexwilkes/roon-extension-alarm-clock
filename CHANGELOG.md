@@ -11,6 +11,7 @@ All notable changes follow [SemVer](https://semver.org/).
 
 ### Fixed
 - America/Vancouver used PST after 2026-11-01. BC moved to permanent -07 (MST).
+- Extension reported version 0.9.1 to Roon. It now matches `package.json`.
 
 ### Added
 - `test/smoke.sh`.
