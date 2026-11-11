@@ -16,5 +16,8 @@ All notable changes follow [SemVer](https://semver.org/).
   Source: https://www2.gov.bc.ca/gov/content/governments/celebrating-british-columbia/daylight-saving-time
 - Extension reported version 0.9.1 to Roon. It now matches `package.json`.
 
+### Documentation
+- README: Node.js 22 or higher. Note on `TZ` and Node's bundled time zone data.
+
 ### Added
 - `test/smoke.sh`. It checks the Vancouver UTC offset (420) in July and December.
